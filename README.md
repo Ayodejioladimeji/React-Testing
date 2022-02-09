@@ -1,4 +1,4 @@
-# Writing Test for a simple react project
+# Writing Test for a simple react project using `React Testing Library`
 
 ## Author
 
